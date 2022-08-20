@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AnsaBaby
 - 👀 I am a Machine Learning and Data Science Enthusiast, currently doing Masters in Data Science. 
 -   I am a senior software developer with 6.5 years of experience with proven knowledge in:-
-- Assist Edge (RPA Automation Studio and Smart User Environment),
-- Dot Net, C, C#, MVC, C++, 
-- jQuery, JavaScript, SQL, API, XML, JSON,
+-           Assist Edge (RPA Automation Studio and Smart User Environment),
+-            Dot Net, C, C#, MVC, C++, 
+-           jQuery, JavaScript, SQL, API, XML, JSON,
             SQL database handling
             Queue Management,
             Microsoft Office (Word, Excel, PPT, and PDF).
