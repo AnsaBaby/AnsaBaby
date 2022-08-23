@@ -11,16 +11,7 @@
    ⚡ SQL database handling
  
    ⚡ Queue Management,
- 
-   ⚡ Microsoft Office (Word, Excel, PPT, and PDF).
- 
-   ⚡ Public speaking- to groups, or via electronic media,
- 
-   ⚡ Client Management, Team leading,
- 
-   ⚡ An In-depth understanding of emerging technologies and their commercial applications,
- 
-   ⚡ A strongly committed to team building and staff development, and Time Management.
+
 
 I’m currently working as 
  
