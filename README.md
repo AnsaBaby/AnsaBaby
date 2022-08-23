@@ -11,9 +11,6 @@
    ⚡ SQL database handling
  
    ⚡ Queue Management,
-
-
-I’m currently working as 
  
  🌱 I’m currently learning **Python**
 
