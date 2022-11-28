@@ -1,26 +1,35 @@
 <h1 align="center">👋 Hi, I'm ANSA BABY</h1>
 <h3 align="center">Technical Analyst in RPA|Assist Edge |Automation</h3>
-👀 I am a Machine Learning & Data Science Enthusiast, currently working as a senior RPA developer with 6.5 years of Software development experience with proven knowledge in:
+👀 I am a Machine Learning & Data Science Enthusiast with 6.5 years of Software development experience.
+I love discovering new things and improving and expanding my knowledge every day! I love playing with data and performing analytical experiments to make a positive impact in different fields and industries. In addition, I write articles on machine learning and data science and contribute to open source.
+
+
+I am expertise in
  
-   ⚡ Assist Edge (RPA Automation Studio and Smart User Environment),
+   ⚡ Python and Machine Learning 
+   
+   ⚡ SQL & Database Management
+   
+   ⚡ RPA Automation,Dot Net, C#, MVC
  
-   ⚡ Dot Net, C, C#, MVC, C++, 
- 
-   ⚡ jQuery, JavaScript, SQL, API, XML, JSON,
- 
-   ⚡ SQL database handling
- 
-   ⚡ Queue Management,
- 
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Data Science**
 
   👯 I’m looking to collaborate on **Data Science |Python Projects |Research Internships**
 
-  💬 Ask me about **Robotic Process Automation using Assist Edge**
+  💬 Ask me about **Data Science and Python**
+  
+  
+  
+  ## My Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How & Where to start your Data Science Journey?]([https://medium.com/analytics-vidhya/python-101-args-and-kwargs-e27f7a0b3de9](https://ansababy.medium.com/how-to-start-your-data-science-journey-420173a981a9))
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ansababy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansababy" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/thedataartistry/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="ansababy" height="30" width="40" /></a>
 </p>
 
 <!---
