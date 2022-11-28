@@ -22,8 +22,8 @@ I am expertise in
   
   ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How & Where to start your Data Science Journey?](https://medium.com/analytics-vidhya/python-101-args-and-kwargs-e27f7a0b3de9](https://ansababy.medium.com/how-to-start-your-data-science-journey-420173a981a9)
-- <!-- BLOG-POST-LIST:END -->
+- [How & Where to start your Data Science Journey?](https://ansababy.medium.com/how-to-start-your-data-science-journey-420173a981a9)
+ <!-- BLOG-POST-LIST:END -->
 
 
 <h3 align="left">Connect with me:</h3>
