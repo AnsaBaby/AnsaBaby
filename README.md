@@ -30,6 +30,7 @@ I am expertise in
 <p align="left">
 <a href="https://linkedin.com/in/ansababy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansababy" height="30" width="40" /></a>
  <a href="https://www.instagram.com/thedataartistry/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="ansababy" height="30" width="40" /></a>
+ <a href="https://ansababy.medium.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2992/PNG/512/medium_logo_icon_187322.png" alt="ansababy" height="30" width="40" /></a>
 </p>
 
 <!---
