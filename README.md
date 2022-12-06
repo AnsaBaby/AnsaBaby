@@ -1,7 +1,8 @@
-👋 Hey Fam, I'm ANSA BABY.
+👋 Hey Fam, I'm ANSA BABY✨.
 
 👀 I am a Machine Learning & Data Science Enthusiast with 6.5 years of Software development experience.
-I love discovering new things and improving and expanding my knowledge every day! I love playing with data and performing analytical experiments to make a positive impact in different fields and industries. In addition, I write articles on machine learning and data science and contribute to open source.
+
+🎨I love discovering new things and improving and expanding my knowledge every day! I love playing with data and performing analytical experiments to make a positive impact in different fields and industries. In addition, I write articles on machine learning and data science and contribute to open source.
 
 
 I am expertise in
