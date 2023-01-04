@@ -26,6 +26,7 @@ I am expertise in
 - [How & Where to start your Data Science Journey?](https://ansababy.medium.com/how-to-start-your-data-science-journey-420173a981a9)
 - [A Roadmap to Python Programming](https://ansababy.medium.com/a-roadmap-to-python-programming-71304f8f486b)
 - [An introduction to Python Basics](https://ansababy.medium.com/an-introduction-to-python-basics-960dc3e7bebc)
+- [Adavnced Python](https://ansababy.medium.com/advanced-python-6740a0e7df1e)
  <!-- BLOG-POST-LIST:END -->
 
 
