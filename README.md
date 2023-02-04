@@ -7,7 +7,7 @@
 
 I am expertise in
  
-   ⚡ Python and Machine Learning 
+   ⚡ Python, Data Science and Machine Learning 
    
    ⚡ SQL & Database Management
    
