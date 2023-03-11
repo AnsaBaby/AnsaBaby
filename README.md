@@ -27,6 +27,7 @@ I am expertise in
 - [A Roadmap to Python Programming](https://ansababy.medium.com/a-roadmap-to-python-programming-71304f8f486b)
 - [An introduction to Python Basics](https://ansababy.medium.com/an-introduction-to-python-basics-960dc3e7bebc)
 - [Adavnced Python](https://ansababy.medium.com/advanced-python-6740a0e7df1e)
+- [Machine Learning & its Types ](https://ansababy.medium.com/machine-learning-its-types-1082ba255d05)
  <!-- BLOG-POST-LIST:END -->
 
 
