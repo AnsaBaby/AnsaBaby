@@ -12,12 +12,13 @@
    
    * ⚡ RPA Automation, Dot Net, C#, MVC
  
-   * - 🌱 I’m currently learning **Data Science**
+   * 🌱 I’m currently learning **Data Science**
 
    * 👯 I’m looking to collaborate on **Data Science |Python Projects |Research Internships**
 
    * 💬 Ask me about **Data Science and Python**
   
+  ---
   
   ## My Latest Blog Posts📚 
 <!-- BLOG-POST-LIST:START -->
@@ -29,6 +30,7 @@
 - [Data Cleaning Techniques](https://ansababy.medium.com/the-ultimate-guide-to-data-cleaning-ensuring-data-quality-and-accuracy-8b9119c45aa4)
  <!-- BLOG-POST-LIST:END -->
 
+---
 
 ### Connect with me:
 <p align="left">
@@ -38,6 +40,11 @@
  <a href="www.youtube.com/@TheDataArtistry" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="ansababy" height="30" width="40" /></a>
 </p>
 
+<br />
+
+<img align="left" alt="Ansa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ansababy&show_icons=true&hide_border=true" />
+
+---
 <!---
 AnsaBaby/AnsaBaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
