@@ -1,21 +1,20 @@
-👋 Hey Fam, I'm ANSA BABY✨.
+### 👋 Hey Fam, I'm ANSA BABY✨.
 
-👀 I am a Machine Learning & Data Science Enthusiast with 7 years of IT expertise.
+- 👀 I am a Machine Learning & Data Science Enthusiast with 7 years of IT expertise.
 
-🎨I love discovering new things and improving and expanding my knowledge daily! I love playing with data and performing analytical experiments to positively impact different fields and industries. In addition, I write articles on machine learning and data science and contribute to open source.
+- 🎨I love discovering new things and improving and expanding my knowledge daily! I love playing with data and performing analytical experiments to impact different fields and industries positively. In addition, I write articles on machine learning and data science and contribute to open source.
 
-
-I am an expertise in
+- I am an expertise in
  
-   ⚡ Python, Data Science, and Machine Learning 
+   * ⚡ Python, Data Science, and Machine Learning 
    
-   ⚡ SQL & Database Management
+   * ⚡ SQL & Database Management
    
-   ⚡ RPA Automation, Dot Net, C#, MVC
+   * ⚡ RPA Automation, Dot Net, C#, MVC
  
- 🌱 I’m currently learning **Data Science**
+   * - 🌱 I’m currently learning **Data Science**
 
-  👯 I’m looking to collaborate on **Data Science |Python Projects |Research Internships**
+   * 👯 I’m looking to collaborate on **Data Science |Python Projects |Research Internships**
 
   💬 Ask me about **Data Science and Python**
   
@@ -32,7 +31,7 @@ I am an expertise in
  <!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ansababy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansababy" height="30" width="40" /></a>
  <a href="https://www.instagram.com/thedataartistry/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="ansababy" height="30" width="40" /></a>
