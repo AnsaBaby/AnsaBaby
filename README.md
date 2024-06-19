@@ -16,11 +16,10 @@
 
    * 👯 I’m looking to collaborate on **Data Science |Python Projects |Research Internships**
 
-  💬 Ask me about **Data Science and Python**
+   * 💬 Ask me about **Data Science and Python**
   
   
-  
-  ## My Latest Blog Posts
+  ## My Latest Blog Posts📚 
 <!-- BLOG-POST-LIST:START -->
 - [How & Where to start your Data Science Journey?](https://ansababy.medium.com/how-to-start-your-data-science-journey-420173a981a9)
 - [A Roadmap to Python Programming](https://ansababy.medium.com/a-roadmap-to-python-programming-71304f8f486b)
@@ -34,9 +33,9 @@
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ansababy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansababy" height="30" width="40" /></a>
- <a href="https://www.instagram.com/thedataartistry/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="ansababy" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/data.artist.ai/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="ansababy" height="30" width="40" /></a>
  <a href="https://ansababy.medium.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2992/PNG/512/medium_logo_icon_187322.png" alt="ansababy" height="30" width="40" /></a>
- <a href="https://www.youtube.com/@TheFriendlyDataGeek" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="ansababy" height="30" width="40" /></a>
+ <a href="www.youtube.com/@TheDataArtistry" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="ansababy" height="30" width="40" /></a>
 </p>
 
 <!---
