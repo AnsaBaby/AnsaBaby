@@ -1,22 +1,13 @@
 ### 👋 Hey Fam, I'm ANSA BABY✨.
 
+![](https://komarev.com/ghpvc/?username=ansababy&color=dc143c)
+
 - 👀 I am a Machine Learning & Data Science Enthusiast with 7 years of IT expertise.
 
 - 🎨I love discovering new things and improving and expanding my knowledge daily! I love playing with data and performing analytical experiments to impact different fields and industries positively. In addition, I write articles on machine learning and data science and contribute to open source.
-
-- I am an expertise in
- 
-   * ⚡ Python, Data Science, and Machine Learning 
-   
-   * ⚡ SQL & Database Management
-   
-   * ⚡ RPA Automation, Dot Net, C#, MVC
- 
-   * 🌱 I’m currently learning **Data Science**
-
-   * 👯 I’m looking to collaborate on **Data Science |Python Projects |Research Internships**
-
-   * 💬 Ask me about **Data Science and Python**
+- ⚡ I am an expertise in Python, Data Science, SQL, and Machine Learning 
+- 💬 I also write blogs on Machine Learning and Deep Learning applications on [Medium](https://ansababy.medium.com/).
+- 📫 If you think I can help you, let's connect and talk on [LinkedIn](https://www.linkedin.com/in/ansababy/).
   
   ---
   
