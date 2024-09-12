@@ -11,11 +11,11 @@
 
 - 👀 I am a Machine Learning Engineer & Google Women Techmakers Ambassador with 7 years of IT expertise in Software Development, Robotic Process Automation, Software Architecture, and Data Science!
 
-- 🎨I love discovering new things and improving and expanding my knowledge daily! I love playing with data and performing analytical experiments to impact different fields and industries positively. In addition, I write articles on machine learning and data science and contribute to open source.
+- 🎨I love discovering new things and improving and expanding my knowledge daily! I love playing with data and performing analytical experiments to positively impact different fields and industries. In addition, I write articles on machine learning and data science and contribute to open source.
 - ⚡ I am an expertise in Python, Data Science, SQL, and Machine Learning 
 - 💬 I also write blogs on Machine Learning and Deep Learning applications on [Medium](https://ansababy.medium.com/).
-- 📫 If you think I can help you, let's connect and talk on [LinkedIn](https://www.linkedin.com/in/ansababy/).
-- 📫 Check out my google dev profile - [Google](https://g.dev/ansababy).
+- 📫 If you think I can help you, let's connect [![Linkedin Badge](https://img.shields.io/badge/-Ansa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ansababy/)
+- 📫 Check out my Google Dev profile - [Google](https://g.dev/ansababy).
   
   ---
   
