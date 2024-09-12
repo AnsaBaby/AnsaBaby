@@ -13,9 +13,9 @@
 
 - 🎨I love discovering new things and improving and expanding my knowledge daily! I love playing with data and performing analytical experiments to positively impact different fields and industries. In addition, I write articles on machine learning and data science and contribute to open source.
 - ⚡ I am an expertise in Python, Data Science, SQL, and Machine Learning 
-- 💬 I also write blogs on Machine Learning and Deep Learning applications on [Medium](https://ansababy.medium.com/).
+- 💬 I also write blogs on Machine Learning and Deep Learning applications on [![Linkedin Badge](https://img.shields.io/badge/-My_Blogs-blue?style=flat&logo=Medium&logoColor=white)](https://ansababy.medium.com/)
 - 📫 If you think I can help you, let's connect [![Linkedin Badge](https://img.shields.io/badge/-Ansa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ansababy/)
-- 📫 Check out my Google Dev profile - [Google](https://g.dev/ansababy).
+- 📫 Check out my Google Dev profile - [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Google&logoColor=white)](https://g.dev/ansababy).
   
   ---
   
