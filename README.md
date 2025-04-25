@@ -6,7 +6,7 @@
 <br />
 
 # 💫 👋 Hey Fam, I'm ANSA BABY✨.
-- 👀 I am a Senior Software Developer & Machine Learning Engineer with 8 years of IT expertise.
+- 👀 I am a Principal Software Developer & Machine Learning Engineer with 8 years of IT expertise.
 - ✍️ I love to write blogs on Software Development and Machine Learning applications. Please read it here: [![Linkedin Badge](https://img.shields.io/badge/-My_Blogs-blue?style=flat&logo=Medium&logoColor=white)](https://ansababy.medium.com/)
 - 📫 If you think I can help you, let's connect [![Linkedin Badge](https://img.shields.io/badge/-Ansa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ansababy/)
 - ⚡ I am a Google Women Techmakers Ambassador. Check out my Google Dev profile - [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Google&logoColor=white)](https://g.dev/ansababy).
